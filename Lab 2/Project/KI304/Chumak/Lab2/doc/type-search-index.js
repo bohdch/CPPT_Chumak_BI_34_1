@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Chumak.Lab2","l":"Filter"},{"p":"KI304.Chumak.Lab2","l":"GasMask"},{"p":"KI304.Chumak.Lab2","l":"GasMaskDriver"},{"p":"KI304.Chumak.Lab2","l":"Mask"},{"p":"KI304.Chumak.Lab2","l":"Valve"}];updateSearchResults();

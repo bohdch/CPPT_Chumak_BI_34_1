@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"KI304.Chumak.Lab3"},{"l":"KI304.Chumak.Lab3.interfaces"}];updateSearchResults();

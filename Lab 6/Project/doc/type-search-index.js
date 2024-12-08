@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Chumak.Lab6","l":"Book"},{"p":"KI304.Chumak.Lab6","l":"Jewelry"},{"p":"KI304.Chumak.Lab6","l":"Nightstand"},{"p":"KI304.Chumak.Lab6","l":"NightstandDriver"}];updateSearchResults();
